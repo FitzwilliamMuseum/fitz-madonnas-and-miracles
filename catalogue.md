@@ -2,7 +2,7 @@
 title: Exhibition Catalogue
 layout: default
 ---
-![Catalogue cover](/images/mm_catalogue.jpeg)
+![Catalogue cover](/images/mm_catalogue.jpeg){: .img-fluid }
 
 Madonnas & Miracles: The Holy Home in Renaissance Italy
 

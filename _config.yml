@@ -43,19 +43,15 @@ plugins:
   - jekyll-mentions
 
 collections:
-   exhibition:
+   curators:
       output: true
-   about:
+      permalink: /curators-choice/:path/
+   discover:
       output: true
-   resources:
+      permalink: /discover/highlights/:path/
+   books:
       output: true
-   team:
-      output: true
-   blog:
-      output: true
-feed:
-  collections:
-    - blog
+      permalink: /books-and-manuscripts/:path/
 
 timezone: Europe/London
 permalink: pretty

@@ -1,14 +1,14 @@
 ---
 layout: default
-permalink: /explore/
-title: Explore wood block prints
+permalink: /discover/
+title: Discover highlights
 ---
 <div class="container mb-3">
   <div class="row">
-{% assign rows = site.explore.size | divided_by: 2.0 | ceil %}
+{% assign rows = site.discover.size | divided_by: 2.0 | ceil %}
 {% for i in (1..rows) %}
 {% assign offset = forloop.index0 | times: 2 %}
-{% assign sorted = site.explore | sort:"order" %}
+{% assign sorted = site.discover | sort:"order" %}
     {% for author in sorted limit:2 offset:offset %}
     <div class="col-md-4 mb-3">
       <div class="card h-100" >
