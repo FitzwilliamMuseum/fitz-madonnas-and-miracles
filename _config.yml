@@ -48,7 +48,7 @@ collections:
       permalink: /curators-choice/:path/
    discover:
       output: true
-      permalink: /discover/highlights/:path/
+      permalink: /discover/:path/
 
 timezone: Europe/London
 permalink: pretty
