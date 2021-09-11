@@ -92,6 +92,9 @@ integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeV
         {{ content }}
       {% else %}
       <div class="col-12 shadow-sm p-3 mx-auto mb-3 mt-3 ">
+        {% if  page.large %}
+          {% include structure/figure-large.md %}
+        {% endif %}
         {{ content }}
       </div>
       {% endif %}

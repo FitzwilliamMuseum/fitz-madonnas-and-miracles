@@ -49,9 +49,6 @@ collections:
    discover:
       output: true
       permalink: /discover/highlights/:path/
-   books:
-      output: true
-      permalink: /books-and-manuscripts/:path/
 
 timezone: Europe/London
 permalink: pretty
