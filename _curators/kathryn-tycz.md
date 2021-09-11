@@ -3,7 +3,7 @@ curator: Katherine Tycz
 title: Virgin enthroned suckling her Child, surrounded by angels
 layout: default
 large: https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_22/bb7cc7dc_d752_4ec8_9889_a3e1016e56ec/mid_00136911_001.jpg
-preview: https://media.britishmuseum.org/iiif/Repository/Documents/2014_11/12_22/bb7cc7dc_d752_4ec8_9889_a3e1016e56ec/00136911_001.ptif/full/314,/0/default.jpg
+preview: https://media.britishmuseum.org/media/Repository/Documents/2014_11/12_22/bb7cc7dc_d752_4ec8_9889_a3e1016e56ec/mid_00136911_001.jpg
 record:
 accession:
 order: 3
