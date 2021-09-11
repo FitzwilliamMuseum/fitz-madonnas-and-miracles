@@ -13,7 +13,7 @@ title: Discover highlights
       <div class="col-md-4 mb-3">
         <div class="card h-100" >
           <a href="{{site.baseurl}}{{ author.url }}" class="stretched-link">
-            <img class="img-fluid" src="{{{author.preview}}" alt="Card image cap" />
+            <img class="img-fluid" src="{{ author.preview }}" alt="{{ author.title }} preview image" />
           </a>
           <div class="card-body">
             <h3 class="lead mt-2">
