@@ -1,13 +1,16 @@
-# Template Jekyll - Fitzwilliam
+# Madonnas and Miracles
 
-Holding webpages for a forthcoming exhibition or online gallery archives.
+This repository holds the content from the 2017 Madonnas and Miracles exhibition
+held at the Fitzwilliam Museum and curated by Vicky Avery and Mary Laven.
+
+Content was extracted from static, code bound pages to a simple jekyll instance and is deployed to Github pages. A data.json file is used to create an indexed content link to the main website's Solr instance, which allows content to be reused. 
 
 ## To run locally
 
 * Install Jekyll on your machine following these [instructions](https://jekyllrb.com/docs/installation/)
 * Install Git on your machine following these [instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 * Clone the code for this repository:
-   `git clone https://github.com/FitzwilliamMuseum/fitz-jekyll-Template.git reponame`
+   `git clone https://github.com/FitzwilliamMuseum/madonnas-and-miracles.git reponame`
 * Install the gems
    `bundle install`
 * Change to the directory and then run this command in terminal `bundle exec jekyll serve`
@@ -15,7 +18,7 @@ Holding webpages for a forthcoming exhibition or online gallery archives.
 
 ## Credits
 
-Website by [@portableant](https://github.com/portableant)
+Code by [@portableant](https://github.com/portableant)
 
 ## License
 
