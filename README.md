@@ -1,5 +1,7 @@
 # Madonnas and Miracles
 
+[![DOI](https://zenodo.org/badge/405213416.svg)](https://zenodo.org/badge/latestdoi/405213416)
+
 This repository holds the content from the 2017 Madonnas and Miracles exhibition
 held at the Fitzwilliam Museum and curated by Vicky Avery and Mary Laven.
 
